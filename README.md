@@ -1,5 +1,7 @@
 # Mini-Projeto-PG
 Este mini projeto consiste em 5 questões que devem ser implementadas utilizando a ferramenta Processing
 
-Felipe Souza
-Mateus Loureiro
+Dupla
+
+- Felipe Souza (frs3)
+- Mateus Loureiro (mll5)
